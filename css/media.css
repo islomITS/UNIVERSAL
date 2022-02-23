@@ -1,0 +1,579 @@
+@media(max-width:1400px) {
+    .header-menu-profil-text h1 {
+        font-size: 18px;
+    }
+
+    .header-menu-profil-text h2,
+    .header-menu-profil-signin a h1,
+    .header-menu-col-1-block h1 {
+        font-size: 14px;
+    }
+
+    .header-menu-weather h1,
+    .header-menu-col-1-block h1,
+    .information-block-box h1 {
+        font-size: 16px;
+    }
+
+    .recommended-box-background-main h1 {
+        font-size: 32px;
+    }
+
+    .recommended-box-background-main_btn__block-text h1 {
+        font-size: 14px !important;
+    }
+
+    .recommended-box-background {
+        width: 71%;
+    }
+
+    .row-gap-right-block-right_top,
+    .row-gap-right-block-right_bottom,
+    .row-gap-block-right_bottom,
+    .row-gap-block-right_top {
+        width: 260px;
+    }
+
+    .row-gap-block {
+        padding-top: 21px;
+    }
+
+    .row-gap-block-right h1 {
+        font-size: 18px;
+    }
+
+    .row-gap-block-right h2 {
+        font-size: 16px;
+    }
+
+    .row-gap-block-right p {
+        font-size: 14px;
+    }
+
+    .country-right-block {
+        padding: 30px 35px;
+    }
+
+    .col-lg-12-block h1 {
+        padding-top: 20px;
+    }
+
+    .country-right-block_bottom h2 {
+        padding-top: 10px;
+    }
+}
+
+@media(max-width:1200px) {
+
+    .recommended-box-text {
+        width: 278px;
+    }
+
+    .information-2 {
+        padding-top: 6px;
+    }
+
+    .information-block-box {
+        padding: 0px 16px;
+    }
+
+    .header-menu-profil-signin h1 {
+        display: none;
+    }
+
+    .header-menu-col-1-block {
+        padding: 0;
+    }
+
+    .car-shop-second-block {
+        height: 418px;
+    }
+
+    .row-gap-block {
+        padding-top: 33px;
+    }
+
+    .row-gap-block-left {
+        width: 210px;
+    }
+
+    .row-gap-right-block-right_top,
+    .row-gap-right-block-right_bottom,
+    .row-gap-block-right_bottom,
+    .row-gap-block-right_top {
+        width: 230px;
+    }
+
+    .row-gap-block-right h2 {
+        font-size: 14px;
+    }
+
+    .row-gap-block-right h1 {
+        font-size: 16px;
+    }
+
+    .row-gap-block {
+        align-items: none;
+    }
+
+    .row-gap-block-left {
+        height: 373px;
+    }
+
+    .shop-left_block__box-items {
+        padding: 36px 0;
+    }
+
+    .header-weather-year h1 {
+        font-size: 16px;
+    }
+
+    .header-weather-weater h1 {
+        display: none;
+    }
+
+    .shop-left_block__box-items h1 {
+        font-size: 17px;
+    }
+
+    .shop-left_block__box-items--box-text h2 {
+        font-size: 14px;
+    }
+
+    .islom-row {
+        height: 100%;
+    }
+
+    .gellary h1 {
+        font-size: 33px;
+    }
+
+    .gellary button {
+        font-size: 16px;
+    }
+
+    .main-block-right_main h1 {
+        font-size: 18px;
+    }
+
+    .main-block-right_main h2 {
+        font-size: 14px;
+    }
+
+    .main-block-right_main h2 br {
+        display: none;
+    }
+
+    .main-block-right_top h1 {
+        font-size: 14px;
+    }
+
+    .main-block-right_main {
+        padding-top: 10px;
+    }
+
+    .main-block-right_main h2 {
+        padding-top: 15px;
+    }
+
+    .main-block-right_bottom {
+        padding-top: 35px;
+    }
+
+    .main-information-top h1 {
+        font-size: 12px;
+    }
+
+    .main-information-middle:not(:last-child) {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .main-information-middle_text h1 {
+        padding-top: 12px;
+        font-size: 16px;
+
+    }
+
+    .main-information-middle_text h2 {
+        font-size: 15px;
+        padding-top: 8px;
+    }
+
+    .country-right-block img {
+        right: 0;
+    }
+
+    .col-lg-12-block h1 {
+        font-size: 20px;
+        line-height: 27px;
+    }
+
+    .col-lg-12-block p {
+        padding-top: 20px;
+    }
+
+    .col-lg-12-block button {
+        font-size: 13px;
+    }
+
+    .col-lg-12-block button i {
+        padding-left: 10px;
+    }
+
+    .country-right-block_bottom {
+        padding: 19px;
+    }
+
+    .country-right-block_bottom p {
+        line-height: 10px;
+        padding-top: 18px;
+    }
+
+    .country-right-block img {
+        width: 48%;
+    }
+
+    .country-right-block {
+        padding: 14px 24px;
+    }
+
+    .col-lg-12-block button {
+        margin-top: 35px;
+    }
+
+    .country-right-block_bottom h2 {
+        font-size: 15px;
+        line-height: 16px;
+        padding-top: 20px;
+    }
+
+    .country-col-6-control {
+        padding-top: 17px;
+    }
+
+    .block h1 {
+        font-size: 28px;
+        line-height: 32px;
+        padding-top: 50px;
+    }
+
+    .block button {
+        font-size: 14px;
+        margin-top: 64px;
+    }
+
+    .header-menu-weather-universal h1,
+    .gellary h1,
+    .footer-top-block h1:first-child {
+        font-size: 28px;
+    }
+
+    .footer-contact ul li a {
+        font-size: 12px;
+        line-height: 20px;
+        margin-left: 20px;
+    }
+
+}
+
+@media(max-width:991px) {
+    .header-menu-col-1-block h1 {
+        display: none;
+    }
+
+    .header-menu-col-1-block {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .header-menu-col-1-block i {
+        font-size: 24px;
+    }
+
+    .header-menu-profile-glavniy {
+        justify-content: space-around;
+    }
+
+    .header-menu-profil-text h1,
+    .header-menu-profil-text h2 {
+        display: none;
+    }
+
+    .footer-contact-left {
+        width: 70%;
+
+    }
+
+    .footer-contact-right {
+        width: 30%;
+    }
+
+    .footer-bottom .col-lg-10 h1 br {
+        display: none;
+    }
+
+    .col-lg-12-h1 {
+        text-align: center;
+        padding-top: 18px;
+    }
+
+    .col-md-12 {
+        width: 100% !important;
+
+    }
+
+    .swiper-control {
+        width: 80%;
+        height: 500px;
+        padding-bottom: 28px;
+    }
+
+    .country .row {
+        display: flex;
+        justify-content: center;
+    }
+
+    .islom {
+        width: 80%;
+        height: 500px;
+        padding-left: 0;
+    }
+
+    .country-right-block img {
+        right: 22px;
+        width: 37%;
+    }
+
+    .country-right-block {
+        padding: 18px 32px;
+    }
+
+    .octabr {
+        padding-top: 28px !important;
+    }
+
+    .main-block-right {
+        padding-top: 20px;
+    }
+
+    .main-information-middle_text {
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .header-menu-weather h1 {
+        font-size: 12px;
+        font-weight: 900;
+    }
+
+    .information-block-box:not(:last-child) {
+        border: none;
+    }
+
+    .information-nav ul li a {
+        font-size: 12px;
+    }
+
+    .information-block-box {
+        padding-top: 12px;
+    }
+
+    .recommended-box-background {
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+    .recommended-box-text {
+        height: 100%;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10;
+    }
+    .information-section {
+        padding-top: 771px;
+    }
+    .row-gap-block-left,.row-gap-block-right{
+        width: 50%;
+    }
+    .row-gap-block-left {
+        height: 100%;
+        width: 45%;
+    }
+    .row-gap-block-right_bottom,.row-gap-block-right_top {
+        width: 100%;
+    }.row-gap-block-right_bottom{
+        margin-top: 40px;
+    }
+  
+    .row-gap-block-right h2 {
+        padding-top: 28px;
+    }.row-gap-block-right p {
+        padding-top: 45px;
+    }.padding-top{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        padding-right: 0;
+        
+    }.row-gap-right-block-right_bottom {
+        margin-top: 0;
+    }.oct13{
+        padding-top: 12px !important;
+    }.country-right-block img {
+        right: 86px;
+        width: 30%;
+    }.shop-left_block__box-items h1 br{
+        display: none;
+        font-size: 16px;
+    }
+    .car-shop-second-block_box {
+        padding-top: 93px;
+    }.row-gap-right-block-right_bottom,.row-gap-right-block-right_top {
+        margin-top: 0;
+        width: 165px;
+        
+    }
+    .row-gap-block-right h2 {
+        font-size: 13px;
+        padding-top: 17px;
+    }   .padding-top {
+        padding-top: 21px;
+    }
+    .saman{
+        padding-top: 56px !important;
+    }
+}
+@media (max-width:767px){
+    .footer-contact-right,.footer-contact-left{
+        width: 100%;
+        
+    }
+    .footer-contact-right{
+        justify-content: center !important;
+        padding-top: 18px;
+    }
+    .header-menu-weather h1 {
+        display: none;
+        
+    }.header-weather-year h1 {
+        font-size: 14px;
+    }
+    .information-section {
+        padding-top: 788px;
+    }
+    .saman{
+        padding-top: 8px !important;
+    }.row-gap-block-right_bottom {
+        margin-top: 12px;
+    }.main-block-right_main h1 {
+        font-size: 16px;
+    }
+    .main-block-right_main h1 br{
+        display: none;
+    }.main-block-right_main h2 {
+        font-size: 13px;
+    }.main-block-right_bottom h1 {
+        font-size: 14px;
+    }.main-information-middle_text h1 {
+        font-size: 14px;
+    }.padding-top
+    {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .row-gap-right-block-right_bottom,.row-gap-right-block-right_top{
+        width: 100%;
+    }.row-gap-right-block-right_bottom{
+        margin-top: 12px;
+    }
+    .information .container .information-nav ul {
+       position: fixed;
+       top:20%;
+       transform: translateX(-100%);
+       left: 0;
+       width: 20%;
+       height: 50%;
+       background: grey;
+       padding: 10px 25px;
+       border-top-right-radius: 10px;
+       border-bottom-right-radius: 10px;
+       z-index: 100;
+       flex-direction: column;
+       transition: .5s;
+    }
+    .information .container .information-nav ul.active{
+        transform: translateX(0);
+        transition: .5s;
+    }
+    .information .container .information-nav ul .box{
+       width: 60px;
+       height: 60px;
+       background: grey;
+       display: block;
+       position: absolute;
+       right: -18%;
+       top: 0;
+       border-radius: 50%;
+       z-index: 100000000;
+    }
+    
+}
+@media(max-width:575px){
+    .fa-sun{
+        display: none;
+    }
+    body{
+        overflow: hidden;
+    }
+    .main-container_block{
+        display: flex;
+        flex-direction: column;
+    }.padding-left {
+        padding-left: 0;
+    }
+    .auto-row-control{
+        display: flex;
+        flex-direction: column;
+    }
+    .main-information-middle:not(:last-child) {
+        justify-content: center;
+        flex-direction: unset;
+    }
+    .main-information-middle h1 {
+        padding-left: 18px;
+    }.main-information-top h1{
+        text-align: center;
+    }.header-menu-weather-universal h1, .gellary h1, .footer-top-block h1:first-child {
+        font-size: 24px;
+        line-height: 33px;
+    }.gellary .container {
+        width: 400px;
+    }
+    
+    .footer-contact-left{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .footer-contact-left ul{
+       padding-top: 18px;
+       flex-direction: column;
+    }
+    .footer-contact-left ul li{
+       padding-top: 8px;
+    }.footer-bottom h1 {    
+        text-align: center;
+    }.header-menu-weather h1, .header-menu-col-1-block h1, .information-block-box h1 {
+        font-size: 14px;
+    }.recommended-box-background-main_btn button {
+        padding: 10px 12px;
+    }
+}
